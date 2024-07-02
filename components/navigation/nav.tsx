@@ -11,7 +11,7 @@ export default async function Nav(){
 
 
     return (
-        <header className="bg-slate-500 py-4">
+        <header className="py-8">
             <nav>
                 <ul className="flex justify-between">
                     <li><Logo/></li>
